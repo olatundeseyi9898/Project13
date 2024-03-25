@@ -1,0 +1,22 @@
+.color {
+  background-color: white;
+}
+.todo-icon {
+  margin-right: 8px;
+}
+.radius {
+  border-radius: 10px;
+  background-color: black;
+  color: white;
+}
+.radius:hover {
+  background-color: white;
+  color: black;
+  outline-color: black;
+}
+.header {
+  font-size: 50px;
+}
+.header span {
+  display: block;
+}
